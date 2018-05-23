@@ -1,2 +1,5 @@
 Creating a new branch is quick.
-added this line from master.
+<<<<<<< HEAD
+=======
+added this line from branch feature 1.
+>>>>>>> feature1
